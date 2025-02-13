@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "echo \"starting config...\" && sleep 999d"
+    "dev": "echo \"starting config...\""
   },
   "keywords": [],
   "author": "",
