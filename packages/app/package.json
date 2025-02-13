@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"building...\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo \"starting app...\" && sleep 999d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

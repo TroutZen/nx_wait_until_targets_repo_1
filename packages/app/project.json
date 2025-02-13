@@ -1,0 +1,12 @@
+{
+  "$schema": "../../node_modules/nx/schemas/nx-schema.json",
+  "targets": {
+      "dev": {
+        "executor": "@nx/js:node",
+        "options": {
+          "buildTarget": "app:build",
+          "waitUntilTargets": ["config:dev"]
+        }
+      }
+    }
+  }
